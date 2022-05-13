@@ -6,7 +6,7 @@ Conteúdo baseado nas referências do livro Introdução à Linguagem SQL, do au
 
 Abaixo informações importantes para prática dos exemplos deste repositório, separados nas seguintes sessões:
 
-# Sessões
+# Lista
 
 1) Instalação da ferramenta SQLiteStudio, que possibilita a prática de consultas em um banco de dados que fica localmente em sua máquina, sem a necessidade de um servidor ou de internet
 2) Download do banco de dados de exemplo que poderá ser importado no SQLiteStudio, com as tabelas prontas e disponíveis para a execução das consultas
@@ -88,4 +88,4 @@ d) Clicar 1x em cima do nome do banco de dados desejado e depois clicar com o bo
 
 ![image](https://user-images.githubusercontent.com/25126687/168310111-fefedeeb-7afc-4019-9e61-fe1db027d139.png)
 
-[Ir para a lista de sessões (voltar pra cima)](#sessoes)
+[Ir para a lista de sessões (voltar pra cima)](#lista)
