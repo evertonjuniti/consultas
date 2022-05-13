@@ -137,4 +137,64 @@ Após efetuar o download ou clone do repositório, você terá na sua máquina u
 
 # Como executar as consultas
 
+Após fazer o download ou clone deste repositório que contém os scripts de exemplo para rodar no SQLiteStudio, você conseguirá abrir os arquivos da seguinte maneira:
+
+1) Abra o SQL Editor, você pode fazer isso de 3 maneiras:
+
+a) Clicar 1x em cima do ícone de folha, conforme exemplo abaixo:
+
+![image](https://user-images.githubusercontent.com/25126687/168345785-2ead8a54-1558-4ccb-8722-4b5c9d3b9e83.png)
+
+b) Através das teclas de atalho ALT+E
+
+c) Clicar no menu "Tools" e depois no sub menu "Open SQL editor", conforme exemplo abaixo:
+
+![image](https://user-images.githubusercontent.com/25126687/168345945-1698c939-6b2c-4e51-992a-b4b9af22f756.png)
+
+2) A seguinte tela será aberta (os comentários em vermelho apenas indicam o que terá em cada painel):
+
+![image](https://user-images.githubusercontent.com/25126687/168346112-91918d85-de8e-4a7d-890a-1a85121e4132.png)
+
+3) Na parte de cima do painel você pode digitar os comandos SQL que desejar, neste caso aqui você irá abrir um dos scripts de exemplo que você baixou neste repositório. Para abrir um script existente, clique no ícone da pasta conforme imagem abaixo ou pressione CTRL+O:
+
+![image](https://user-images.githubusercontent.com/25126687/168346306-a003bfa5-6cd2-4466-bb22-fbc53bda1dd0.png)
+
+4) Escolha o arquivo de script desejado e abra-o (estou usando o Windows, então o exemplo abaixo é abertura de arquivo em pasta do Windows):
+
+![image](https://user-images.githubusercontent.com/25126687/168346412-ec423da7-a28b-4f55-b168-6a511481f21f.png)
+
+5) Verifique se você já está conectado no banco de dados em que tem as tabelas envolvidas no script, a caixinha abaixo sem preenchimento representa que não há nenhum banco de dados conectado no momento:
+
+![image](https://user-images.githubusercontent.com/25126687/168347075-efa0fdb9-9dad-4dc6-910b-302694fa34c7.png)
+
+6) Para conectar no banco de dados (isso é necessário para utilizá-lo), você tem 4 maneiras de fazer:
+
+a) Clicar 2x em cima do nome do banco de dados desejado
+
+b) Clicar 1x em cima do nome do banco de dados desejado e depois clicando no ícone de tomada (conforme exempo abaixo):
+
+![image](https://user-images.githubusercontent.com/25126687/168347325-9f0c2b05-23a1-4c09-9f12-96f95284d234.png)
+
+c) Clicar 1x em cima do nome do banco de dados desejado e depois clicando no menu "Database" e em seguida clicando no sub menu "Connect to the database" (conforme exempo abaixo):
+
+![image](https://user-images.githubusercontent.com/25126687/168347400-a2a2342b-b57b-477f-be78-e3b63470b6f3.png)
+
+d) Clicar 1x em cima do nome do banco de dados desejado e depois clicar com o botão direito do mouse em cima dele e por último no item de menu suspenso "Connect to the database" (conforme exempo abaixo):
+
+![image](https://user-images.githubusercontent.com/25126687/168347775-437ac222-751b-470f-9064-de46eb1c45a0.png)
+
+7) O banco de dados conectado irá aparecer na lista de banco de dados ativos no SQL Editor, conforme exemplo abaixo:
+
+![image](https://user-images.githubusercontent.com/25126687/168347879-a6d2cf4f-5bd2-463e-a5ef-2dc3db77528f.png)
+
+8) Para executar os comandos, selecione o comando e depois clique no botão de "play" ou pressione a tecla F9, conforme exemplo abaixo:
+
+![image](https://user-images.githubusercontent.com/25126687/168348105-a526e396-a3ac-434f-a718-85275ef8538f.png)
+
+9) O resultado da execução do comando aparecerá no painel de baixo após clicar no "play" ou pressionar a tecla F9, conforme exemplo abaixo:
+
+![image](https://user-images.githubusercontent.com/25126687/168348397-d99623a5-920c-46f4-90de-af7a43636068.png)
+
+10) Pronto! Você conseguiu executar um comando SQL no SQLiteStudio e conseguiu visualizar o resultado! Agora explore com outros comandos e bons estudos!
+
 [Ir para a lista de sessões (voltar pra cima)](#lista)
