@@ -92,7 +92,27 @@ d) Clicar 1x em cima do nome do banco de dados desejado e depois clicar com o bo
 
 # Download do banco de dados de exemplo
 
+No próprio livro de referência aqui citado é indicado um repositório do Github com o banco de dados de exemplo.
 
+Em uma nova aba em seu browser, abra o seguinte link que aponta para o repositório do Github do autor do livro: https://github.com/thomasnield/oreilly_getting_started_with_sql
+
+![image](https://user-images.githubusercontent.com/25126687/168332968-dafd5329-eede-4f70-9720-89d0de47ec7f.png)
+
+Se você não está habituado com o uso do Git, recomendo que você clique no botão "Code" e depois no item "Download ZIP", caso contrário faça o "clone" do resositório para baixar o banco de dados de exemplo. Abaixo um exemplo de como fazer o Download sem precisar clonar o repositório:
+
+![image](https://user-images.githubusercontent.com/25126687/168333108-29f3540b-02c6-4648-afda-92d3333ec108.png)
+
+Após efetuar o download ou clone do repositório, você terá na sua máquina um conjunto de arquivos.
+
+Faça os procedimentos para abrir um banco de dados existente e inclua na lista do SQLiteStudio todos os databases (os arquivos .db):
+
+![image](https://user-images.githubusercontent.com/25126687/168333552-1999468c-4ad4-4409-9f1c-4fcb730975af.png)
+
+Sua lista deverá ter a seguinte composição de bancos de dados (se você seguiu fielmente todos os passos até aqui):
+
+![image](https://user-images.githubusercontent.com/25126687/168333706-81aec4da-0e8a-4b13-9db7-3a8228531df8.png)
+
+Pronto! Os bancos de dados com os exemplos já prontos estão disponíveis para você explorar!
 
 [Ir para a lista de sessões (voltar pra cima)](#lista)
 
