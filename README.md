@@ -119,6 +119,20 @@ Pronto! Os bancos de dados com os exemplos já prontos estão disponíveis para 
 
 # Download dos scripts de exemplos de consultas
 
+Neste repositório você encontra alguns scripts com exemplos de consultas divididos em 4 temas (aqui em 4 pastas): SELECT, WHERE, GROUP (BY e HAVING) e JOIN. Cada uma das pastas possui um script com exemplos (ao total 4 arquivos de scripts, cada um com seu tema).
+
+É necessário que você faça do download dos bancos de dados de exemplo (visto na sessão anterior) para que você consiga executar os scripts de exemplo.
+
+As queries foram todas retiradas do livro de referência, a intenção aqui é disponibilizar de forma mais prática para que você já tenha o script em mãos ao consumir o conteúdo do livro.
+
+Se você não está habituado com o uso do Git, recomendo que você clique no botão "Code" e depois no item "Download ZIP", caso contrário faça o "clone" do resositório para baixar este repositório com os scripts de exemplos de consultas. Abaixo um exemplo de como fazer o Download sem precisar clonar o repositório:
+
+![image](https://user-images.githubusercontent.com/25126687/168336467-4c29b04f-f20a-4fd1-94a1-97abb1d945ee.png)
+
+Após efetuar o download ou clone do repositório, você terá na sua máquina um conjunto de pastas, dentro de cada pasta estarão os arquivos com os scripts:
+
+![image](https://user-images.githubusercontent.com/25126687/168336895-66c3a8b5-c8f0-4559-b9d0-dfc2b2935dce.png)
+
 [Ir para a lista de sessões (voltar pra cima)](#lista)
 
 # Como executar as consultas
