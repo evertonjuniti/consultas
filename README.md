@@ -9,7 +9,7 @@ Abaixo informações importantes para prática dos exemplos deste repositório, 
 # Lista
 
 1) Instalação da ferramenta SQLiteStudio, que possibilita a prática de consultas em um banco de dados que fica localmente em sua máquina, sem a necessidade de um servidor ou de internet
-2) [Download do banco de dados de exemplo que poderá ser importado no SQLiteStudio, com as tabelas prontas e disponíveis para a execução das consultas](#download-do banco-de-dados-de-exemplo)
+2) [Download do banco de dados de exemplo](#download-do banco-de-dados-de-exemplo) que poderá ser importado no SQLiteStudio, com as tabelas prontas e disponíveis para a execução das consultas]
 3) [Download dos scripts de exemplos de consultas](#download-dos-scripts-de-exemplos-de-consultas)
 
 ## Instalação da ferramenta SQLiteStudio
